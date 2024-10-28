@@ -1,0 +1,64 @@
+header {
+  background-color: #7ECCD1;
+}
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 20px 1px 1000px;
+    font-size: 1.25rem;
+  }
+  main section.se1{
+    background-image: url(../img/image\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 0 20vw;
+  } 
+  main section.se1 div h1 {
+    font-size: 2.2rem;
+	margin: 5vw 60vw 2vw 1vw;
+	background-color: #7ECCD1;
+	padding: 1vw 1vw 1vw 1vw;
+	border-radius: 30px;
+	color: #FEEDFE;
+    border-bottom-right-radius: 0;
+	border: #414141 3px solid;
+  }
+  main section.se1 div h1 span{
+    color: green;
+    font-size: 3rem;
+  }
+  section.se2 h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    background-color: #7ECCD1;
+  }
+  section.se2 div.digra1{
+    display: flex;
+    font-size: 2.2rem;
+  }
+  section.se2 div.div1{
+    margin: 3vw 9vw 2vw 16vw;
+    background-color: #7ECCD1;
+    padding: 1vw 3vw 1vw 3vw;
+    border-radius: 30px;
+  }
+  section.se2 div.div2{
+    margin: 3vw 6vw 2vw 10vw;
+    background-color: #7ECCD1;
+    padding: 1vw 3vw 1vw 3vw;
+    border-radius: 30px;
+  }
+  section.se2 div.digra2{
+    display: flex;
+  }
+  section.se2 div.dip1 ul{
+    font-size: 1.5rem;
+    background-color: #7ECCD1;
+    margin: 5vw 4vw 2vw 3vw;
+    padding: 1vw 3vw 1vw 3vw;
+    border-radius: 30px;
+  }
+  section.se2 div.dip2 img{
+    margin: 0 2vw ;
+  }
