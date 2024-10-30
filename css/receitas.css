@@ -1,4 +1,57 @@
-section div.divG1 {
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #7ECCD1;
+}
+
+header nav ul {
+    display: flex;
+    margin: 3vw;
+    font-size: 1.25rem;
+}
+header nav ul li {
+    margin: 0 2vw 0 2vw;
+}
+section.sec1 p {
+ font-size: 1.2rem;
+    line-height: 1.5rem;
+ }
+ section div.divG1 {
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
+section div img {
+    margin: 0 auto;
+}
+section h4 {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+section.sec2 div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+ section.sec2 div.divG1 p {
+ font-size: 1.2rem;
+ }
+ section.sec2 div ul li{
+    font-size: 1.2rem;
+ }
+section.sec2 h3 {
+    font-weight: bold;
+}
+section.sec2 p {
+font-size: 1.2rem;
+line-height: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
