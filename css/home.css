@@ -49,16 +49,18 @@ header nav ul {
     font-size: 2.2rem;
   }
   section.se2 div.div1{
-    margin: 3vw 9vw 2vw 16vw;
+    margin: 3vw 9vw 2vw 15vw;
     background-color: #7ECCD1;
     padding: 1vw 3vw 1vw 3vw;
     border-radius: 30px;
+    border: 3px solid black;
   }
   section.se2 div.div2{
-    margin: 3vw 6vw 2vw 10vw;
+    margin: 3vw 6vw 2vw 6vw;
     background-color: #7ECCD1;
     padding: 1vw 3vw 1vw 3vw;
     border-radius: 30px;
+    border: 3px solid black;
   }
   section.se2 div.digra2{
     display: flex;
@@ -66,10 +68,16 @@ header nav ul {
   section.se2 div.dip1 ul{
     font-size: 1.5rem;
     background-color: #7ECCD1;
-    margin: 5vw 4vw 2vw 3vw;
+    margin: 5vw 6vw 2vw 2vw;
     padding: 1vw 3vw 1vw 3vw;
     border-radius: 30px;
+    border: 3px solid black;
   }
   section.se2 div.dip2 img{
-    margin: 0 2vw ;
+    margin: 0 0 0 2 vw ;
+    border-radius: 30px;
+    border: 3px solid #7ECCD1;
+  }
+  .se2 .dip2 span{
+    margin: 0 3.5vw 0 0;
   }
