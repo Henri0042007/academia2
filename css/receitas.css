@@ -76,16 +76,27 @@ section.sec2 div.fundo {
 }
 section.sec2 div.divG1 {
     padding: 0vw 25vw 0 25vw;
-
+}
+.sec2 .divG1 img{
+    border-radius: 45px;
 }
 section.sec2 div.divG2 {
     padding: 0vw 25vw 0 25vw;
 }
+.sec2 .divG2 img{
+    border-radius: 45px;
+}
 section.sec2 div.divG3 {
     padding: 0vw 25vw 0 25vw;
 }
+.sec2 .divG3 img{
+    border-radius: 45px;
+}
 section.sec2 div.divG4 {
     padding: 0vw 25vw 0 25vw;
+}
+.sec2 .divG4 img{
+    border-radius: 45px;
 }
 
 

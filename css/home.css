@@ -74,7 +74,7 @@ header nav ul {
     border: 3px solid black;
   }
   section.se2 div.dip2 img{
-    margin: 0 0 0 2 vw ;
+    margin: 0 1.5vw 0 -1vw ;
     border-radius: 30px;
     border: 3px solid #7ECCD1;
   }
