@@ -1,32 +1,6 @@
- header{
-    background-color: #7ECCD1;
- }
-  header nav{
-    display: flex;
-    justify-content: space-between;
-    margin: 3vw 3vw 3vw 3v;
-  }
-  header nav ul {
-      display: flex;
-      justify-content: space-between;
-      padding: 4vw 4vw 4vw 4vw  ;
-      font-size: 1.25rem;
-    }
-    header nav ul li{
-      margin: 0 2vw 0 2vw;
-    }
-    nav a img{
-      margin: 1vw 0 0 3vw;
-    }
-/* Estilos gerais */
-body {
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #eef2f3;
-    color: #333;
-}
+
+
+
 
 /* Cabeçalho */
 main h1 {
@@ -73,16 +47,3 @@ main ul li:hover {
 }
 
 /* Estilos e tamanhos */
-@media (max-width: 600px) {
-    h1 {
-        font-size: 1.8rem;
-    }
-
-    h2 {
-        font-size: 1.5rem;
-    }
-    
-    ul li {
-        font-size: 0.9rem;
-    }
-}

@@ -1,20 +1,4 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    background-color: #7ECCD1;
-}
 
-header nav ul {
-    display: flex;
-    margin: 4vw;
-    font-size: 1.25rem;
-}
-header nav ul li {
-    margin: 0 2vw 0 2vw;
-}
-header a img{
-    margin: 1vw 0 0 3vw;
-}
 section.sec1 p {
  font-size: 1.3rem;
     line-height: 1.6rem;

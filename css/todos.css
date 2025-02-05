@@ -46,3 +46,36 @@ footer p {
   line-height: 1.5;
   font-size: 14px;
 }
+header a {
+  color: black;
+}
+header {
+  background-color: #7ECCD1;
+}
+header nav{
+  display: flex;
+  justify-content: space-between;
+  margin: 3vw 3vw 3vw 3v;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 4vw 4vw 4vw 4vw  ;
+    font-size: 1.25rem;
+  }
+  header nav ul li{
+    margin: 0 2vw 0 2vw;
+  }
+  nav a img{
+    margin: 1vw 0 0 3vw;
+  }
+
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #eef2f3;
+    color: #333;
+}
