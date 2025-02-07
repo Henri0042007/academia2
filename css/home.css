@@ -8,7 +8,7 @@
     font-size: 2.2rem;
 	margin: 5vw 60vw 2vw 1vw;
 	background-color: #7ECCD1;
-	padding: 1vw 1vw 1vw 1vw;
+	padding: 2vw 2vw 2vw 2vw;
 	border-radius: 30px;
 	color: #FEEDFE;
     border-bottom-right-radius: 0;
@@ -16,48 +16,61 @@
   }
   main section.se1 div h1 span{
     color: green;
-    font-size: 3rem;
+    font-size: 2.2rem;
   }
   section.se2 h2{
     text-align: center;
     font-weight: bold;
     font-size: 2.5rem;
     background-color: #7ECCD1;
+    padding: 2vw 3vw 2vw 3vw;
   }
-  section.se2 div.digra1{
+  section.se2 div {
     display: flex;
-    font-size: 2.2rem;
+    justify-content: center;
+    margin-top: 1.5vw;
   }
-  section.se2 div.div1{
-    margin: 3vw 9vw 2vw 15vw;
+
+  section.se2 div.digra1 {
+    display: block;
     background-color: #7ECCD1;
-    padding: 1vw 3vw 1vw 3vw;
-    border-radius: 30px;
-    border: 3px solid black;
+    border: #414141 solid 2px;
+    border-radius: 4vw;
+    margin: 3vw 5vw 3vw 5vw;
+    padding: 4vw;
   }
-  section.se2 div.div2{
-    margin: 3vw 6vw 2vw 6vw;
+
+  div.digra1 h3 {
+    font-size: 1.7rem;
+  }
+  div.digra1 ul {
+    font-size: 1.4rem;
+    padding: 1vw 1.5vw 1vw 1.5vw;
+  }
+
+  div.digra1 li {
+    padding: 0.5vw 0 0.5vw 0;
+  }
+
+  section.se2 div.digra2 {
+    display: block;
     background-color: #7ECCD1;
-    padding: 1vw 3vw 1vw 3vw;
-    border-radius: 30px;
-    border: 3px solid black;
+    border: #414141 solid 2px;
+    border-radius: 4vw;
+    margin: 3vw 5vw 3vw 5vw;
+    padding: 4vw;
   }
-  section.se2 div.digra2{
-    display: flex;
+  div.digra2 h3 {
+    font-size: 1.7rem;
   }
-  section.se2 div.dip1 ul{
-    font-size: 1.5rem;
-    background-color: #7ECCD1;
-    margin: 5vw 6vw 2vw 2vw;
-    padding: 1vw 3vw 1vw 3vw;
-    border-radius: 30px;
-    border: 3px solid black;
+
+  div.digra2 span {
+   display: flex;
   }
-  section.se2 div.dip2 img{
-    margin: 0 1.5vw 0 -1vw ;
-    border-radius: 30px;
-    border: 3px solid #7ECCD1;
+
+  div.digra2 img.um {
+    padding: 1.5vw;
   }
-  .se2 .dip2 span{
-    margin: 0 3.5vw 0 0;
+  div.digra2 img.dois {
+    padding: 1.5vw;
   }
